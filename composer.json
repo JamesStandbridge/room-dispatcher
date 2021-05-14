@@ -1,0 +1,13 @@
+{
+    "name": "jamesstandbridge/room-dispatcher",
+    "description": "dispatch a list of person into rooms",
+    "type": "project",
+    "authors": [
+        {
+            "name": "jamesstandbridge",
+            "email": "james.standbridge.git@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
