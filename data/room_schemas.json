@@ -1,0 +1,16 @@
+{
+	"schemas": {
+		"A": {
+			"bunk_bed": 0,
+			"simple_bed": 2
+		},
+		"B": {
+			"bunk_bed": 1,
+			"simple_bed": 2
+		},
+		"C": {
+			"bunk_bed": 2,
+			"simple_bed": 2
+		}	
+	}
+}
